@@ -1,1 +1,1 @@
-# GIT_CheetSheet
+# GIT_CheatSheet
